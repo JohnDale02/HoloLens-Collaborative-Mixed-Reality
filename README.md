@@ -18,6 +18,8 @@ Our motivation behind this project is rooted in the applicability of mixed reali
 - Collect, manage and label the data
 
 # System Blocks:
+![image](https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/9d1b625f-50e4-4018-a7fc-395fbc6652c8)
+
 
 # HW/SW Requirements:
 - Setup of Unity on Windows laptop
