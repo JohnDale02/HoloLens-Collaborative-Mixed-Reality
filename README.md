@@ -20,6 +20,8 @@ Our motivation behind this project is rooted in the applicability of mixed reali
 # System Blocks:
 ![image](https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/9d1b625f-50e4-4018-a7fc-395fbc6652c8)
 ![image](https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/9907773c-a8c3-4ac6-bb16-7584f9078321)
+![image](https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/62c6d63b-eb64-45cb-b157-0378d53627c9)
+
 
 
 # HW/SW Requirements:
