@@ -22,8 +22,6 @@ Our motivation behind this project is rooted in the applicability of mixed reali
 ![image](https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/9907773c-a8c3-4ac6-bb16-7584f9078321)
 ![image](https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/62c6d63b-eb64-45cb-b157-0378d53627c9)
 
-
-
 # HW/SW Requirements:
 - Setup of Unity on Windows laptop
 - Setup of MRTK (Mixed-Reality-ToolKit) on Windows laptop
@@ -46,5 +44,10 @@ research, algorithm design
 - Dec 5th: Manage and label data
 
 # References
+- https://learn.microsoft.com/en-us/windows/mixed-reality/design/shared-experiences-in-mixed-reality 
+- https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/research-mode
+- https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/?view=mrtkunity-2022-05
+- https://www.youtube.com/watch?v=mSSVcT2PpKk
+- https://www.youtube.com/watch?v=dOsYerpKloY&t=4s
 
 
