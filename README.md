@@ -22,6 +22,7 @@ Our motivation behind this project is rooted in the applicability of mixed reali
 ## HW/SW Requirements:
 - Setup of Unity on a Windows laptop
 - Setup of MRTK (Mixed-Reality-Toolkit) on a Windows laptop
+- Setup of Hololens in Research mode for collecting raw sensor data
 
 ## Team Member Responsibilities:
 - **John Dale**: Setup, Unity, Research, Software
