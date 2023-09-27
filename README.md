@@ -20,13 +20,14 @@ Our motivation behind this project is rooted in the applicability of mixed reali
 ![image](https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/62c6d63b-eb64-45cb-b157-0378d53627c9)
 
 ## HW/SW Requirements:
+- Windows Laptop with Universal Windows Platform support
 - Setup of Unity on a Windows laptop
 - Setup of MRTK (Mixed-Reality-Toolkit) on a Windows laptop
 - Setup of Hololens in Research mode for collecting raw sensor data
 
 ## Team Member Responsibilities:
 - **John Dale**: Setup, Unity, Research, Software
-- **Dani Kasti**: Experiment design, Software, Research
+- **Dani Kasti**: Experiment design, Software, Research, Writing
 
 ## (EARLY) Project Timeline:
 - **Oct 3rd**: Gather HoloLens devices & begin setup of Unity, MRTK
