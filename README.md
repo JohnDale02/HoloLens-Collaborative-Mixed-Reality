@@ -12,8 +12,8 @@ Our motivation behind this project is rooted in the applicability of mixed reali
 
 
 # Deliverables:
-• Research and implement system setup for collaborative MR
-• Identify the type of application for experiments
+- • Research and implement system setup for collaborative MR
+- • Identify the type of application for experiments
 • Design experiments for two subjects wearing headset and interacting with a common scene
 • Collect, manage and label the data
 
