@@ -36,12 +36,12 @@ research, algorithm design
 ''''
 
 # (EARLY) Project Timeline:
-- Oct 3rd: Gather Hololense & begin setup of Unity, MRTK
-- Oct 10th: finish setup for solo MR; Work towards collaborative MR with 2nd Hololens
-- Oct 24th: Conduct initial experient in collaborative scenario & brainstorm application
-- Nov 7th: Choose application & begin designing experiments
-- Nov 21st: Execute experiments and collect data
-- Dec 5th: Manage and label data
+- __Oct 3rd__: Gather Hololense & begin setup of Unity, MRTK
+- __Oct 10th__: finish setup for solo MR; Work towards collaborative MR with 2nd Hololens
+- __Oct 24th__: Conduct initial experient in collaborative scenario & brainstorm application
+- __Nov 7th__: Choose application & begin designing experiments
+- __Nov 21st__: Execute experiments and collect data
+- __Dec 5th__: Manage and label data
 
 # References
 - https://learn.microsoft.com/en-us/windows/mixed-reality/design/shared-experiences-in-mixed-reality 
