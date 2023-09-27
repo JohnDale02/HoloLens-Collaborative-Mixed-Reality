@@ -24,8 +24,8 @@ Our motivation behind this project is rooted in the applicability of mixed reali
 - Setup of MRTK (Mixed-Reality-ToolKit) on Windows laptop
 
 # Team Member Responsibilities:
-John Dale: Setup, Unity, Research, Software
-Dani Kasti: Experiment design, Software, Research
+- John Dale: Setup, Unity, Research, Software
+- Dani Kasti: Experiment design, Software, Research
 
 EXAMPLE ROLES:
 ''' lead roles: setup, software, networking, writing,
