@@ -1,4 +1,4 @@
-# Collaborative-MR-535
+# HoloLens 2 Collaborative Mixed Reality - ECE 535/635
 
 ## Motivation:
 Our motivation behind this project is rooted in the applicability of mixed reality scenarios to benefit productivity, entertainment, connectivity, and beyond. Mixed reality has untapped potential, and our team would love to contribute to helping push this technology forward. Our work will provide us with hands-on experience for collaborative mixed reality scenarios, and in turn, the research community with valuable datasets. We are excited to work with this technology and help the research community.
