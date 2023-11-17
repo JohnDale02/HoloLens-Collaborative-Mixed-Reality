@@ -32,6 +32,10 @@ Using the MixedRealityFeatureTool.exe our installed packages are listed below:
 - The deployment might take a few attempts, even when correctly setup
 - If deployment succeeds, the application will automatically run on the Hololens
 
+## Eye Tracking
+- It is required to enable
+- Add a Eye Gaze data provider by navigating to MRTK Toolkit --> Input -.............
+
 ## Azure Spatial Anchors
 
 ## 
