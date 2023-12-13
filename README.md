@@ -1,6 +1,8 @@
 # HoloLens 2 Collaborative Mixed Reality - ECE 535/635
-![image](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/9b9b6806-e3a8-4f49-9cff-7a0f0b4edd45)
-![image](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/31e0c7b5-53a8-4412-9847-ed7746cceddf)
+<p align="center">
+  <img src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/9b9b6806-e3a8-4f49-9cff-7a0f0b4edd45" width="400" />
+  <img src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/31e0c7b5-53a8-4412-9847-ed7746cceddf" width="400" /> 
+</p>
 
 ## Motivation:
 Our motivation behind this project is rooted in the applicability of mixed reality scenarios to benefit productivity, entertainment, connectivity, and beyond. Mixed reality has untapped potential, and our team would love to contribute to helping push this technology forward. Our work will provide us with hands-on experience for collaborative mixed reality scenarios, and in turn, the research community with valuable datasets. We are excited to work with this technology and help the research community.
