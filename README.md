@@ -37,7 +37,7 @@ Our motivation behind this project is rooted in the applicability of mixed reali
           - Mixed Reality Toolkit Foundation [2.7.0]
           - Mixed Reality Toolkit Standard Assets [2.7.0]
           - Mixed Reality Toolkit Tools [2.7.0]
-- Visual Studio setup with .NET framework
+- Visual Studio with Required Components
     - Visual Studio [16.11.31]
     - ASP.NET Web Development Tools Version [4.7.2]
     - Universal Windows Platform Development Component
