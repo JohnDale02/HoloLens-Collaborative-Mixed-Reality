@@ -49,10 +49,6 @@ Our motivation behind this project is rooted in the applicability of mixed reali
 ## Project Settings and Configuration:
 While building the application, incorrect setup of the MRTK and OpenXR profiles, and Project settings was the main cause for non-functional features. The following changes in these settings should be known to the developer.
 To find these settings in the Unity editor, click File → Build Settings → Player Settings
-- MRTK Profiles:
-Our application utilized an imported MixedRealityToolkit profile, along with some further configuration. The profile is from the Mixed Reality Toolkit Foundation, and is called “DefaultMixedRealityToolkitConfigurationProfile.” The following changes should be made for adapting this configuration profile to our use case. 
-    - Input → Pointers → Is Eye Tracking Enabled (make sure this box is checked)
-    - Spatial Awareness → OpenXR Spatial Mesh Observer → Display Settings → Display Option → Set to Occlusion (This prevents the spatial mesh from being constantly displayed)
 - OpenXR Settings and Profiles:
     - The following Feature Groups should be enabled in XR Plug-in Management → OpenXR:
         - Hand Tracking: Enables the tracking of hand movements and gestures, allowing for natural interaction within virtual environments.
@@ -72,6 +68,10 @@ Our application utilized an imported MixedRealityToolkit profile, along with som
         - Microphone: Enables voice input and audio recording functionalities
         - Spatial Perception: Allows the app to understand and interact with the physical space around the user
         - GazeInput: Enables eye tracking, allowing users to interact with the app using their gaze
+- MRTK Profiles:
+    - Our application utilized an imported MixedRealityToolkit profile, along with some further configuration. The profile is from the Mixed Reality Toolkit Foundation, and is called “DefaultMixedRealityToolkitConfigurationProfile.” The following changes should be made for adapting this configuration profile to our use case. 
+          - Input → Pointers → Is Eye Tracking Enabled (make sure this box is checked)
+          - Spatial Awareness → OpenXR Spatial Mesh Observer → Display Settings → Display Option → Set to Occlusion (This prevents the spatial mesh from being constantly displayed)
   
 These settings and features will enable and include the necessary systems in the application build. 
 Developers must ensure the correct build and deployment steps of their application to ensure its compatibility with the Hololens 2 platform. 
