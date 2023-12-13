@@ -4,9 +4,9 @@
 Our motivation behind this project is rooted in the applicability of mixed reality scenarios to benefit productivity, entertainment, connectivity, and beyond. Mixed reality has untapped potential, and our team would love to contribute to helping push this technology forward. Our work will provide us with hands-on experience for collaborative mixed reality scenarios, and in turn, the research community with valuable datasets. We are excited to work with this technology and help the research community.
 
 ## Design goals:
-- Enable a collaborative MR environment with two HoloLens devices
-- Mimic typical collaborative scenarios for mixed reality in a local environment
-- Design experiments over the collaborative mixed reality application to best collect a robust dataset
+- [x] Enable a collaborative MR environment with two HoloLens devices
+- [x] Mimic typical collaborative scenarios for mixed reality in a local environment
+- [ ] Design experiments over the collaborative mixed reality application to best collect a robust dataset
 
 ## Deliverables:
 - Research and implement system setup for collaborative MR
