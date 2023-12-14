@@ -107,7 +107,30 @@ Developers must ensure the correct build and deployment steps of their applicati
           - If deployment fails, make sure you have paired with the Hololense and you are on the same WiFi network.
           - If all else fails, retry, sometimes deployment takes 2-3 tries
 
- 
+## Custom C# Scripts:
+- PhotonRoomWordPuzzle.cs:
+    - Script built upon the PhotonRoom.cs file included from the MRTK.Tutorials.MultiUserCapabilities asset.
+        - Receives x prefab elements for instantiation (15 for our application)
+        - Receives x anchor locations for object spawn locations
+        - Facilitates creation of shared virtual environment and objects
+        - Handles networking events
+        - Attached to the NetworkRoom gameObject
+- CollectData.cs
+    - Script for logging user interaction and object positions to a .txt file
+        - Recieves print delay (in seconds)
+        - Ensures input systems are configured for data collection
+        - Timed data: collected every 100ms
+            - Poster positions: recorded once the objects are initializes (takes ~2 seconds to initialize)
+            - Head position: the global position of the users head in space (Provides data instantly)
+            - Hand Joint data:  Position and rotation of each joint in the hand
+            - Provides data instantly (given hands can be seen)
+            - Eye gaze origin and direction : returns hitobject if eye gaze intersects a gameObject (Takes ~10 seconds to initialize)
+            
+        - Event data: collected for touch events (max 1 every 100ms)
+            - Poster touchpoints: global position of index finger when it touches a poster (max 1 event per 100 ms)
+            - Provides data instantly
+
+  
 ## Team Member Responsibilities:
 - **John Dale**: Setup, Unity development, Research, Software
 - **Dani Kasti**: Experiment design, Research, Writing
