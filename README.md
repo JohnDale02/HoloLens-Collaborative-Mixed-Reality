@@ -21,13 +21,10 @@ Our motivation behind this project is rooted in the applicability of mixed reali
 - [x] Collect and organize the data
 
 ## System Blocks:
-<img src="https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/9d1b625f-50e4-4018-a7fc-395fbc6652c8"  width = 300 />
-<img src="https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/9907773c-a8c3-4ac6-bb16-7584f9078321"  width = 300 />
-<img src="https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/62c6d63b-eb64-45cb-b157-0378d53627c9"  width = 300 />
-<img src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/601b1ffe-949c-4794-bbe5-381bd662afe9" width = 300 />
-![image]()
-![image]()
-![image])
+<img src="https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/9d1b625f-50e4-4018-a7fc-395fbc6652c8"  width = 700 />
+<img src="https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/9907773c-a8c3-4ac6-bb16-7584f9078321"  width = 600 />
+<img src="https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/62c6d63b-eb64-45cb-b157-0378d53627c9"  width = 800 />
+<img src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/601b1ffe-949c-4794-bbe5-381bd662afe9" width = 800 />
 
 
 ## HW/SW Requirements:
