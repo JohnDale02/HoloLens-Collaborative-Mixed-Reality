@@ -125,7 +125,6 @@ Developers must ensure the correct build and deployment steps of their applicati
             - Hand Joint data:  Position and rotation of each joint in the hand
             - Provides data instantly (given hands can be seen)
             - Eye gaze origin and direction : returns hitobject if eye gaze intersects a gameObject (Takes ~10 seconds to initialize)
-            
         - Event data: collected for touch events (max 1 every 100ms)
             - Poster touchpoints: global position of index finger when it touches a poster (max 1 event per 100 ms)
             - Provides data instantly
