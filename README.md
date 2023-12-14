@@ -24,6 +24,8 @@ Our motivation behind this project is rooted in the applicability of mixed reali
 ![image](https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/9d1b625f-50e4-4018-a7fc-395fbc6652c8)
 ![image](https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/9907773c-a8c3-4ac6-bb16-7584f9078321)
 ![image](https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/62c6d63b-eb64-45cb-b157-0378d53627c9)
+![image](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/601b1ffe-949c-4794-bbe5-381bd662afe9)
+
 
 ## HW/SW Requirements:
 - Windows Laptop with Universal Windows Platform support
