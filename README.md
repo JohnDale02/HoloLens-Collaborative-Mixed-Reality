@@ -128,6 +128,25 @@ Developers must ensure the correct build and deployment steps of their applicati
         - Event data: collected for touch events (max 1 every 100ms)
             - Poster touchpoints: global position of index finger when it touches a poster (max 1 event per 100 ms)
             - Provides data instantly
+         
+## Project Hierarchy:
+Main Project Hierarchy:
+![image](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/5e5a28fd-70b0-4de8-93b4-9d003f4ced55)
+Example Table Object (Anchor Point for a poster):
+![image](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/8fc03642-eebd-411a-a80b-149b0e7f34dc)
+Example Anchor Parent Object:
+![image](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/8f9168f7-3ec4-4483-a92d-238953b4beec)
+Example Shared Playground Object:
+![image](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/fe0a08dc-fdbd-4030-a2b6-b4033684a98a)
+Example Network Room Object:
+![image](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/8648de3b-c7d2-4e97-9e4c-58fb3a8b7550)
+Example Network Lobby Object:
+![image](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/1cc6d49e-e152-4d75-9e7b-31221bd74991)
+
+
+
+
+
 
   
 ## Team Member Responsibilities:
