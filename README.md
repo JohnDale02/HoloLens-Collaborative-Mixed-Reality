@@ -134,23 +134,11 @@ This section describes the main project hierarchy for the HoloLens Collaborative
 #### Main Project Hierarchy:
 ![Main Project Hierarchy](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/5e5a28fd-70b0-4de8-93b4-9d003f4ced55)
 
-#### Example Table Object
+#### Example Network Lobby Object
 
-The table object serves as an anchor point for a poster in the application.
+The network lobby object is used for managing the lobby space in the networked application.
 
-![Example Table Object](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/8fc03642-eebd-411a-a80b-149b0e7f34dc)
-
-#### Example Anchor Parent Object
-
-This object acts as the parent for anchor points in the project.
-
-![Example Anchor Parent Object](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/8f9168f7-3ec4-4483-a92d-238953b4beec)
-
-#### Example Shared Playground Object
-
-The shared playground object is a key component for collaborative interactions.
-
-![Example Shared Playground Object](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/fe0a08dc-fdbd-4030-a2b6-b4033684a98a)
+![Example Network Lobby Object](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/1cc6d49e-e152-4d75-9e7b-31221bd74991)
 
 #### Example Network Room Object
 
@@ -158,11 +146,31 @@ This object is used for setting up networked rooms within the application.
 
 ![Example Network Room Object](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/8648de3b-c7d2-4e97-9e4c-58fb3a8b7550)
 
-#### Example Network Lobby Object
+#### Example Shared Playground Object
 
-The network lobby object is used for managing the lobby space in the networked application.
+The shared playground object is a key component for collaborative interactions.
 
-![Example Network Lobby Object](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/1cc6d49e-e152-4d75-9e7b-31221bd74991)
+![Example Shared Playground Object](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/fe0a08dc-fdbd-4030-a2b6-b4033684a98a)
+
+#### Example Anchor Parent Object
+
+This object acts as the parent for anchor points in the project.
+
+![Example Anchor Parent Object](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/8f9168f7-3ec4-4483-a92d-238953b4beec)
+
+#### Example Table Object
+
+The table object serves as an anchor point for a poster in the application.
+
+![Example Table Object](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/8fc03642-eebd-411a-a80b-149b0e7f34dc)
+
+
+
+
+
+
+
+
 
 
 
