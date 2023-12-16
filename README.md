@@ -171,7 +171,7 @@ The poster is instantiated at the set anchor locations. The attached scripts pro
 
 ![image](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/af0576ff-9d94-4666-8f46-30016bcd22ae)
 
-### Remarks
+#### Remarks
 
 We also provided our own custom scripts. ALl other scripts in the images can be obtained through the listed packages. 
 
