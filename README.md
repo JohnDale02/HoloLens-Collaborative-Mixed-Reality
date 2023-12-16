@@ -3,7 +3,7 @@
   <img src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/31e0c7b5-53a8-4412-9847-ed7746cceddf" width="400" /> 
    <img width="400" height="200" alt="Screenshot 2023-12-15 at 7 13 54 PM" src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/115953345/78777cc3-1d15-4ee9-a65b-75faba6ab71a">
   <img src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/19310b00-0e8f-4c6a-a84c-8f8067d1e86a" width="400" />
-  <img src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/9b9b6806-e3a8-4f49-9cff-7a0f0b4edd45" width="400" />
+  <img src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/9b9b6806-e3a8-4f49-9cff-7a0f0b4edd45" width="400" height="250" />
 </p>
 
 ## Motivation:
