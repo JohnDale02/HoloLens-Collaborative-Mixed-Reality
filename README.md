@@ -173,7 +173,7 @@ The poster is instantiated at the set anchor locations. The attached scripts pro
 
 #### Remarks
 
-We also provided our own custom scripts. ALl other scripts in the images can be obtained through the listed packages. 
+We provided two custom scripts. All other scripts in the images can be obtained through the listed packages. 
 
 
 
