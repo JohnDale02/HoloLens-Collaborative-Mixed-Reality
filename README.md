@@ -165,6 +165,11 @@ The table object serves as an anchor point for a poster in the application.
 ![Example Table Object](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/8fc03642-eebd-411a-a80b-149b0e7f34dc)
 
 
+#### Example Poster Prefab
+
+The poster is instantiated at the set anchor locations. The attached scripts provide networking and interactability.
+
+![image](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/af0576ff-9d94-4666-8f46-30016bcd22ae)
 
 
 
