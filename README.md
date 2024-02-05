@@ -1,7 +1,5 @@
 # HoloLens 2 Collaborative Mixed Reality - ECE 535/635
 
-## ---------- Research Paper [[HoloCapture.pdf](https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/files/14132859/HoloCapture.pdf)] ----------
-
 <p align="center">
   <img src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/31e0c7b5-53a8-4412-9847-ed7746cceddf" width="400" /> 
    <img width="400" alt="Screenshot 2023-12-15 at 7 13 54 PM" src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/115953345/78777cc3-1d15-4ee9-a65b-75faba6ab71a">
@@ -30,6 +28,9 @@ Our motivation behind this project is rooted in the applicability of mixed reali
   <img src="https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/62c6d63b-eb64-45cb-b157-0378d53627c9"  width = 600 />
   <img src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/601b1ffe-949c-4794-bbe5-381bd662afe9" width = 600 />
 </p>
+
+
+https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/ae40f0cc-b38e-4f0e-8e81-4155e81a910a
 
 
 ## HW/SW Requirements:
