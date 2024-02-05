@@ -7,6 +7,8 @@
   <img src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/9b9b6806-e3a8-4f49-9cff-7a0f0b4edd45" width="400" />
 </p>
 
+https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/ae40f0cc-b38e-4f0e-8e81-4155e81a910a
+
 ## Motivation:
 Our motivation behind this project is rooted in the applicability of mixed reality scenarios to benefit productivity, entertainment, connectivity, and beyond. Mixed reality has untapped potential, and our team would love to contribute to helping push this technology forward. Our work will provide us with hands-on experience for collaborative mixed reality scenarios, and in turn, the research community with valuable datasets. We are excited to work with this technology and help the research community.
 
@@ -28,10 +30,6 @@ Our motivation behind this project is rooted in the applicability of mixed reali
   <img src="https://github.com/JohnDale02/Collaborative-MR-535/assets/116762794/62c6d63b-eb64-45cb-b157-0378d53627c9"  width = 600 />
   <img src="https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/601b1ffe-949c-4794-bbe5-381bd662afe9" width = 600 />
 </p>
-
-
-https://github.com/JohnDale02/HoloLens-Collaborative-Mixed-Reality/assets/116762794/ae40f0cc-b38e-4f0e-8e81-4155e81a910a
-
 
 ## HW/SW Requirements:
 - Windows Laptop with Universal Windows Platform support
